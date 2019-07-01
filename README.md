@@ -4,7 +4,7 @@
 
 Project using GAWK to process “Cartas setecentistas da Etiópia”.
 
-Check the project statement [here](https://github.com/catarinamachado/Cartas-setecentistas/blob/master/pl18-tp2.pdf) and the final report [here](https://github.com/catarinamachado/Cartas-setecentistas/blob/master/Relatorio.pdf).
+Check the project statement [here](https://github.com/Goncalo-Faria/Cartas-setecentistas/blob/master/pl18-tp2.pdf) and the final report [here](https://github.com/Goncalo-Faria/Cartas-setecentistas/blob/master/Relatorio.pdf).
 
 ## Usage
 
